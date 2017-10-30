@@ -15,6 +15,7 @@ Button info, scanner, spil;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hovedmenu);
 
+
         info = (Button) findViewById(R.id.info);
         scanner = (Button) findViewById(R.id.scanner);
         spil = (Button) findViewById(R.id.spil);
